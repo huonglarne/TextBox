@@ -1,3 +1,8 @@
+    sudo apt-get install -y cpanminus
+    cpanm --force XML::Parser
+    sudo apt-get install libxml-parser-perl
+
+
 ![TextBox Logo](asset/logo.png)
 
 ---
